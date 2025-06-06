@@ -1,0 +1,7 @@
+pandas
+pyarrow
+black
+flake8
+isort
+pre-commit
+pytest
